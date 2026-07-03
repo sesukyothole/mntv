@@ -276,6 +276,8 @@ https://cdn3.skygo.mn/live/disk1/Babes/LTV-FOREIGN-DASH-FTA/Babes.mpd
 http://ru.iptv.monster/play/1768/manifest.m3u8?token=623939143BE8A4B
 #EXTINF:-1 tvg-id="Babes" tvg-name="Babes" tvg-logo="https://i.imgur.com/ea9jGx1.png" group-title="Adult",Banana HD
 http://125.227.210.55:1009/VideoInput/play.ts
+#EXTINF:-1 tvg-id="Babes" tvg-name="Babes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/MetArt_Logo.pngg" group-title="Adult",MetArt
+http://88b9da48.kazmazpaz.ru:80/iptv/RL8MVW8UX8NNXK/12160/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Desire" tvg-name="Desire" tvg-logo="https://adult-tv-channels.click/assets/images/desire-tv.png" group-title="Adult",Desire
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
