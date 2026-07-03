@@ -215,8 +215,10 @@ https://cdn3.skygo.mn/live/disk1/Channel_5/LTV-FOREIGN-DASH-FTA/Channel_5.mpd
 https://cdn3.skygo.mn/live/disk1/Telecafe/LTV-FOREIGN-DASH-FTA/Telecafe.mpd
 #EXTINF:-1 tvg-id="Матч!Планета" tvg-name="Матч!Планета" tvg-logo="https://www.goplus.mn/images/repository/177/11177-LOGO-m.png" group-title="Opoc", Матч!Планета
 https://cdn1.skygo.mn/live/disk1/Match_Planeta/LTV-FOREIGN-DASH-FTA/Match_Planeta.mpd
-#EXTINF:-1 tvg-id="Матч!Планета" tvg-name="Матч!Планета" tvg-logo="https://androfon.ru/wp-content/uploads/2022/11/matchtv-logo-031122.png" group-title="Opoc", Матч!
+#EXTINF:-1 tvg-id="Матч!Планета" tvg-name="Матч!Планета" tvg-logo="https://mediafut.com/wp-content/uploads/2023/04/logo_fc-match.png" group-title="Opoc", Матч!
 http://194.152.35.17/match/index.m3u8
+#EXTINF:-1 tvg-id="Матч!Планета" tvg-name="Матч!Планета" tvg-logo="https://mediafut.com/wp-content/uploads/2023/04/logo_fc-match.png" group-title="Opoc", Матч!
+http://5.188.221.43:8080/play/match
 
 #EXTINF:-1 tvg-id="N Spotrs" tvg-name="N Spotrs" tvg-logo="https://www.goplus.mn/images/repository/686/133686-LOGO-m.png" group-title="Sport",N Spotrs
 https://cdn3.skygo.mn/live/disk1/ONTV/DASH-FTA/ONTV.mpd
