@@ -11,6 +11,9 @@ https://cdn3.skygo.mn/live/disk1/CNBC/DASH-FTA/CNBC.mpd
 #EXTINF:-1 tvg-id="MongolHD plus 1" tvg-name="MongolHD plus 1" tvg-logo="https://www.goplus.mn/images/repository/232/57232-LOGO-m.png" group-title="Монгол сувгууд",MongolHD plus 1
 https://cdn3.skygo.mn/live/disk1/VolumePlus/DASH-FTA/VolumePlus.mpd
 #EXTINF:-1 tvg-id="Монгол ТВ" tvg-name="Монгол ТВ" tvg-logo="https://www.goplus.mn/images/repository/796/102796-LOGO-m.png" group-title="Монгол сувгууд",Монгол ТВ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://widevine-dash.ezdrm.com/widevine-php/widevine-foreignkey.php?pX=1A925C&IrisCustomData=ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5Sm9kMGxrSWpvaVpUbGpNV1EzTnpJdE1EWXdPQzAwWVRBMkxXSTRZVFl0TmpCbFpqWTVNakE1TkRGaElpd2laR1ZKWkNJNklqa3dNeUlzSW1SbFZIa2lPaUpNU1U1RlFWSlVWbDlEU0VGT1RrVk1JaXdpY0dWeUlqcG1ZV3h6WlN3aVpYaHdJam94TnpnMk56WTJNalkwZlEubUdpVVRsS2NTUG5wUmlTdV9MLWVhTEduVDFDT1lUaU1reWRFT2lVRlhhMA==
 https://cdn1.skygo.mn/live/disk1/Mongol_HD/LTV-MONGOLIA-DASH-CPIX/Mongol_HD.mpd
 #EXTINF:-1 tvg-id="МҮОНТ" tvg-name="МҮОНТ" tvg-logo="https://www.goplus.mn/images/repository/821/821-LOGO-m.png" group-title="Монгол сувгууд",МҮОНТ
 https://cdn3.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
@@ -388,46 +391,5 @@ https://mp3.planetradio.de/plrchannels/hqitunes.mp3
 #EXTINF:-1 tvg-id="Capital FM" tvg-name="Capital FM" tvg-logo="http://mntv.xp3.biz/tv/capitalfm.png" radio="true" group-title="Radio",Capital FM
 http://media-the.musicradio.com/CapitalUK?type=.flv&amsparams=playerid:UKRP;skey:1493969598;&awparams=kxsegs:||;&kuid=&amsparams%3Dplayerid%3AUKRP%3Bskey%3A1493974001&listenerid=0da14c16f269b02766cf7ea370751054&awparams=companionAds%3Atrue&rpempv=3.1.101;
 
-
-
-#EXTINF:-1 tvg-id="TopGunMaverick" tvg-name="TopGunMaverick" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",TopGunMaverick
-https://cdn4.skygo.mn/vod/disk1/TopGunMaverick03/_/VOD-FOREIGN-DASH-FTA/TopGunMaverick03.mpd
-#EXTINF:-1 tvg-id="Dune" tvg-name="Dune" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Dune
-https://cdn6.skygo.mn/vod/disk1/Dune03/_/VOD-FOREIGN-DASH-FTA/Dune03.mpd
-#EXTINF:-1 tvg-id="Dune2" tvg-name="Dune2" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Dune 2
-https://cdn6.skygo.mn/vod/disk1/DunePart203/_/VOD-FOREIGN-DASH-FTA/DunePart203.mpd
-#EXTINF:-1 tvg-id="Interstellar" tvg-name="Interstellar" tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Interstellar
-https://cdn6.skygo.mn/vod/disk1/Interstellar03/_/VOD-FOREIGN-DASH-FTA/Interstellar03.mpd
-
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",TheMartian
-https://cdn4.skygo.mn/vod/disk1/TheMartian03/_/VOD-FOREIGN-DASH-FTA/TheMartian03.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",IndependenceDayResurgence
-https://cdn6.skygo.mn/vod/disk1/IndependenceDayResurgence201603/_/VOD-FOREIGN-DASH-FTA/IndependenceDayResurgence201603.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",ThePredator
-https://cdn6.skygo.mn/vod/disk1/ThePredator201803/_/VOD-FOREIGN-DASH-FTA/ThePredator201803.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",GeoStorm
-https://cdn6.skygo.mn/vod/disk1/GeoStorm03/_/VOD-FOREIGN-DASH-FTA/GeoStorm03.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Elysium
-https://cdn6.skygo.mn/vod/disk1/Elysium03/_/VOD-FOREIGN-DASH-FTA/Elysium03.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",LeonTheProfessional
-https://cdn4.skygo.mn/vod/disk1/LeonTheProfessional03/_/VOD-FOREIGN-DASH-FTA/LeonTheProfessional03.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",ExodusGodsandKings
-https://cdn6.skygo.mn/vod/disk1/ExodusGodsandKings03/_/VOD-FOREIGN-DASH-FTA/ExodusGodsandKings03.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",WarOfTheWorlds
-https://cdn4.skygo.mn/vod/disk1/WarOfTheWorlds03/_/VOD-FOREIGN-DASH-FTA/WarOfTheWorlds03.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Stalingrad
-https://cdn5.skygo.mn/vod/disk1/Stalingrad03/_/VOD-FOREIGN-DASH-FTA/Stalingrad03.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",RedSparrow
-https://cdn3.skygo.mn/vod/disk1/RedSparrow03/_/VOD-FOREIGN-DASH-FTA/RedSparrow03.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",FiftyShadesOfGrey
-https://cdn3.skygo.mn/vod/disk1/FiftyShadesOfGrey03/_/VOD-FOREIGN-DASH-FTA/FiftyShadesOfGrey03.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",FifthyShadesFreed
-https://cdn3.skygo.mn/vod/disk1/FifthyShadesFreed03/_/VOD-FOREIGN-DASH-FTA/FifthyShadesFreed03.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",FiftyShadesDarker
-https://cdn3.skygo.mn/vod/disk1/FiftyShadesDarker201703/_/VOD-FOREIGN-DASH-FTA/FiftyShadesDarker201703.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",Fury
-https://cdn4.skygo.mn/vod/disk1/Fury03/_/VOD-FOREIGN-DASH-FTA/Fury03.mpd
-#EXTINF:-1 tvg-logo="https://www.goplus.mn/images/repository/962/14962-LOGO-m.png" group-title="Kino",MinistryofUngentlemanlyWarfare
-https://cdn3.skygo.mn/vod/disk1/MinistryofUngentlemanlyWarfare03/_/VOD-FOREIGN-DASH-FTA/MinistryofUngentlemanlyWarfare03.mpd
  
 #EXT-X-ENDLIST
